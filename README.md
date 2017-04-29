@@ -11,6 +11,7 @@ A discord bot I made for a friend's server so we could play music while talking 
   npm install youtube-info
   npm install youtube-search
   npm install ytdl-core
+  npm install randomcolor
   ```
 2. [Create an app](https://discordapp.com/developers/applications/me) and get it's token. Fill in the token part of [config.js](config.js) and get the bots' client ID. Then, copy [this link](https://discordapp.com/api/oauth2/authorize?client_id=157730590492196864&scope=bot&permissions=0) and replace the number in front of the client_id with your bot's client ID and follow the link.
 3. Click on the dropdown and select the server that you want, and boom! You've got your slmIX bot added to server. 
