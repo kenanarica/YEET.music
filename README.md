@@ -23,3 +23,10 @@ This information can all be relayed if you type .h in any server that the bot is
 `.search [youtube search terms]` searches youtube for your query, and returns the first link that comes back. 
 
 Example usage: `.search How far I'll go moana` brings the official soundtrack for Moana's "How far I'll go" and plays it in whatever voice channel you're in.
+
+`.next` Skips the current song in the queue. Quick and easy.
+
+`.queue` prints the current queue. Song names and who queued the songs are included in a RichEmbed object.
+
+### Questions, comments or concerns? 
+Contact me! I'm always open to feedback and while this project might not get updated much it's still good to have.
